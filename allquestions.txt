@@ -1,0 +1,518 @@
+Beginner
+1.
+
+Declare variables to store your name, age, and city, then display them.
+
+2.
+
+Create two integer variables and print their sum.
+
+3.
+
+Declare three variables for Physics, Chemistry, and Mathematics marks, then calculate the total.
+
+4.
+
+Store the radius of a circle in a variable and calculate the area.
+
+5.
+
+Swap the values of two variables using a third variable.
+
+6.
+
+Swap two variables without using a third variable.
+
+7.
+
+Store the length and breadth of a rectangle and calculate the perimeter.
+
+Intermediate
+8.
+
+Declare variables for principal, rate, and time, then calculate simple interest.
+
+9.
+
+Create variables for five subject marks and calculate the average.
+
+10.
+
+Store the temperature in Celsius and convert it to Fahrenheit.
+
+11.
+
+Store the price and quantity of three products and calculate the total bill.
+
+12.
+
+Declare variables for employee name, basic salary, bonus, and tax, then calculate the net salary.
+
+13.
+
+Store a student's information (Name, Roll No, Faculty, GPA) and display it in a formatted report.
+
+14.
+
+Calculate compound interest using variables.
+
+Advanced
+15.
+
+Create variables for hours, minutes, and seconds, then convert everything into total seconds.
+
+16.
+
+Store the dimensions of a room and calculate its volume.
+
+17.
+
+Create variables to calculate electricity bills based on consumed units.
+
+18.
+
+Store distances of three routes and determine the total travel distance.
+
+19.
+
+Calculate the Body Mass Index (BMI) using weight and height variables.
+
+20.
+
+Create a mini payroll calculator using variables for salary, allowances, deductions, tax, and net salary.
+
+1.6 Identifiers (20 Coding Practice Questions)
+Beginner
+1.
+
+Create variables with meaningful identifier names for student information.
+
+2.
+
+Write a program using descriptive identifiers for storing employee details.
+
+3.
+
+Declare variables using camelCase naming convention.
+
+4.
+
+Create constants using PascalCase naming convention.
+
+5.
+
+Create variables representing bank account information using meaningful names.
+
+6.
+
+Declare variables for a library management system.
+
+7.
+
+Create identifiers for vehicle information.
+
+Intermediate
+8.
+
+Write a student grading program using meaningful identifiers only.
+
+9.
+
+Create a shopping bill calculator using descriptive variable names.
+
+10.
+
+Design identifiers for an online food ordering system.
+
+11.
+
+Create identifiers for hospital patient records.
+
+12.
+
+Write a payroll program with properly named identifiers.
+
+13.
+
+Create identifiers for an inventory management system.
+
+14.
+
+Develop a hotel booking program using readable identifier names.
+
+Advanced
+15.
+
+Create a banking transaction system with meaningful identifiers.
+
+16.
+
+Develop a flight reservation program with standardized identifiers.
+
+17.
+
+Design an e-commerce checkout system using proper naming conventions.
+
+18.
+
+Create a school management system with professional identifier names.
+
+19.
+
+Build a student attendance system using consistent identifier naming.
+
+20.
+
+Refactor a poorly named program by replacing all variables with meaningful identifiers.
+
+1.7 Keywords (20 Coding Practice Questions)
+Beginner
+1.
+
+Write a program using the int keyword.
+
+2.
+
+Create a program using the double keyword.
+
+3.
+
+Declare variables using string, char, and bool keywords.
+
+4.
+
+Use the const keyword to declare PI.
+
+5.
+
+Create a class containing variables declared using different C# keywords.
+
+6.
+
+Write a program using the var keyword.
+
+7.
+
+Declare and initialize variables using different built-in type keywords.
+
+Intermediate
+8.
+
+Create a method using the void keyword.
+
+9.
+
+Write a program using return inside methods.
+
+10.
+
+Use if, else, and return together.
+
+11.
+
+Write a program demonstrating the new keyword.
+
+12.
+
+Use this keyword inside a class.
+
+13.
+
+Write a program using base in inheritance.
+
+14.
+
+Create an example using readonly fields.
+
+Advanced
+15.
+
+Develop a program using static members.
+
+16.
+
+Create an abstract class using the abstract keyword.
+
+17.
+
+Write a program implementing an interface using the interface keyword.
+
+18.
+
+Use try, catch, finally, and throw in one program.
+
+19.
+
+Create a simple program demonstrating the lock keyword.
+
+20.
+
+Develop a console application utilizing multiple C# keywords together (const, static, readonly, new, this, base, abstract, interface, override).
+
+1.8 Data Types (20 Coding Practice Questions)
+Beginner
+1.
+
+Declare one variable of every primitive data type and display their values.
+
+2.
+
+Store an integer and display its square.
+
+3.
+
+Store a decimal number and calculate GST/VAT.
+
+4.
+
+Store a character and display its ASCII value.
+
+5.
+
+Store a Boolean value representing voting eligibility.
+
+6.
+
+Create variables using byte, short, int, and long.
+
+7.
+
+Compare storage capacities by assigning suitable values to different integer data types.
+
+Intermediate
+8.
+
+Create a calculator using int and double.
+
+9.
+
+Calculate average marks using float.
+
+10.
+
+Store a bank balance using decimal.
+
+11.
+
+Write a program demonstrating overflow of byte.
+
+12.
+
+Store Unicode characters using char.
+
+13.
+
+Use nullable data types to store optional values.
+
+14.
+
+Write a program displaying the MinValue and MaxValue of each numeric data type.
+
+Advanced
+15.
+
+Build a banking application using decimal for financial calculations.
+
+16.
+
+Create a scientific calculator using double.
+
+17.
+
+Write a program comparing float, double, and decimal precision.
+
+18.
+
+Create an application using multiple data types to manage employee information.
+
+19.
+
+Develop a grading system utilizing different numeric data types appropriately.
+
+20.
+
+Create a data validation program that selects the most suitable data type for each input.
+
+1.9 Type Conversion (20 Coding Practice Questions)
+Beginner
+1.
+
+Convert an int into a double.
+
+2.
+
+Convert a char into an int.
+
+3.
+
+Convert an int into a long.
+
+4.
+
+Convert a float into a double.
+
+5.
+
+Convert a byte into an int.
+
+6.
+
+Convert an integer into a decimal.
+
+7.
+
+Convert an integer into a string.
+
+Intermediate
+8.
+
+Convert a string entered by the user into an integer.
+
+9.
+
+Convert a string into a double using Convert.ToDouble().
+
+10.
+
+Convert a string into an integer using int.Parse().
+
+11.
+
+Convert a string into an integer using int.TryParse().
+
+12.
+
+Convert a double into an integer using explicit casting.
+
+13.
+
+Convert a decimal into a float.
+
+14.
+
+Create a unit converter requiring multiple type conversions.
+
+Advanced
+15.
+
+Read user input and safely convert it into different numeric types.
+
+16.
+
+Create a calculator accepting all inputs as strings and converting them before calculations.
+
+17.
+
+Demonstrate data loss during explicit conversion.
+
+18.
+
+Write a currency converter using type conversions.
+
+19.
+
+Create an application validating user input using TryParse() before processing.
+
+20.
+
+Build a menu-driven program that performs all major implicit and explicit type conversions.
+
+1.10 Operators (20 Coding Practice Questions)
+Beginner
+Arithmetic Operators
+1.
+
+Create a calculator that performs addition.
+
+2.
+
+Perform subtraction, multiplication, division, and modulus between two numbers.
+
+3.
+
+Calculate the remainder after dividing two integers.
+
+4.
+
+Calculate the average of three numbers.
+
+Assignment Operators
+5.
+
+Demonstrate all assignment operators (=, +=, -=, *=, /=, %=).
+
+Increment/Decrement
+6.
+
+Demonstrate pre-increment and post-increment.
+
+7.
+
+Demonstrate pre-decrement and post-decrement.
+
+Intermediate
+Relational Operators
+8.
+
+Compare two numbers using all relational operators.
+
+9.
+
+Determine the largest among two numbers using comparison operators.
+
+Logical Operators
+10.
+
+Check whether a person is eligible to vote using logical operators.
+
+11.
+
+Check admission eligibility based on multiple conditions.
+
+12.
+
+Validate login credentials using logical operators.
+
+Conditional Operator
+13.
+
+Find the larger of two numbers using the ternary (?:) operator.
+
+14.
+
+Determine whether a number is even or odd using the conditional operator.
+
+Advanced
+Bitwise Operators
+15.
+
+Perform bitwise AND, OR, XOR, and NOT operations on two integers.
+
+16.
+
+Demonstrate left shift (<<) and right shift (>>) operators.
+
+Combined Operators
+17.
+
+Create a scientific calculator using arithmetic, assignment, relational, and logical operators.
+
+18.
+
+Develop a grading system using relational, logical, and conditional operators.
+
+19.
+
+Create a salary processing program using arithmetic, assignment, comparison, and conditional operators.
+
+20.
+
+Build a menu-driven calculator that demonstrates all of the following operators:
+
+Arithmetic (+, -, *, /, %)
+Assignment (=, +=, -=, *=, /=, %=)
+Relational (==, !=, >, <, >=, <=)
+Logical (&&, ||, !)
+Increment/Decrement (++, --)
+Conditional (?:)
+Bitwise (&, |, ^, ~, <<, >>)
