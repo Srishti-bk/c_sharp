@@ -1,7 +1,7 @@
 //Create two integer variables and print their sum.
 using System;
 
- class Question2
+ class Calculation
 {
     public void Sum(int a , int b)
     {

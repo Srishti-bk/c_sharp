@@ -7,7 +7,12 @@ class Program
       //  Myinfo myinfo = new Myinfo();
        // myinfo.Info();
     
-        Question2 question2 = new Question2();
-        question2.Sum(2,4);
+       // Calculation calculation = new Calculation();
+       // calculation.Sum(2,4);
+      // Totalmarks totalmarks = new Totalmarks();
+     //  totalmarks.Marks();
+
+     Areacalculation areacalculation = new Areacalculation();
+     areacalculation.Calculation();
     }
 }
