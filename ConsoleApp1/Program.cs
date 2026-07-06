@@ -12,7 +12,19 @@ class Program
       // Totalmarks totalmarks = new Totalmarks();
      //  totalmarks.Marks();
 
-     Areacalculation areacalculation = new Areacalculation();
-     areacalculation.Calculation();
+     //Areacalculation areacalculation = new Areacalculation();
+     //areacalculation.Calculation();
+
+    // Swapping swapping = new Swapping();
+     //swapping.Swap();
+
+     //Swap swap = new Swap();
+     //swap.Swapping();
+     //Perimeter perimeter = new Perimeter();
+     //perimeter.Calculate();
+     //Simpleinterest simpleinterest = new Simpleinterest();
+     //simpleinterest.Calculation();
+     Average average = new Average();
+     average.Calculation();
     }
 }
