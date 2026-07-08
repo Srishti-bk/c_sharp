@@ -24,7 +24,11 @@ class Program
      //perimeter.Calculate();
      //Simpleinterest simpleinterest = new Simpleinterest();
      //simpleinterest.Calculation();
-     Average average = new Average();
-     average.Calculation();
+     //Average average = new Average();
+     //average.Calculation();
+     //Temperature temperature = new Temperature();
+     //temperature.Convert();
+     Bill bill = new Bill();
+     bill.totalBill();
     }
 }
