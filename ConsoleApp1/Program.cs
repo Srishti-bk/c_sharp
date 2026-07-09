@@ -28,7 +28,17 @@ class Program
      //average.Calculation();
      //Temperature temperature = new Temperature();
      //temperature.Convert();
-     Bill bill = new Bill();
-     bill.totalBill();
+     // bill = new Bill();
+     //bill.totalBill();
+     //Salary salary = new Salary();
+     //salary.Details();
+     //Report report = new Report();
+     //report.Information();
+     //Interest interest = new Interest();
+     //interest.Calculation();
+     //Totalsecond totalsecond = new Totalsecond();
+     //totalsecond.Convert();
+     Volume volume = new Volume();
+     volume.Calculate();
     }
 }
