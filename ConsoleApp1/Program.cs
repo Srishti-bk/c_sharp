@@ -38,7 +38,13 @@ class Program
      //interest.Calculation();
      //Totalsecond totalsecond = new Totalsecond();
      //totalsecond.Convert();
-     Volume volume = new Volume();
-     volume.Calculate();
+     //Volume volume = new Volume();
+     //volume.Calculate();
+     //Numbercheck numbercheck = new Numbercheck();
+     //numbercheck.Check();
+     //Evenodd evenodd = new Evenodd();
+     //evenodd.Check();
+     Largernum largernum = new Largernum();
+     largernum.Check();
     }
 }

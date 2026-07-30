@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\class_12\\c_sharp\\c_sharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\c#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\class_12\\c_sharp\\c_sharp\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\class_12\\c_sharp\\c_sharp\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\c#\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\class12\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\ConsoleApp1\\obj\\",
+        "projectPath": "E:\\class_12\\c_sharp\\c_sharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\class_12\\c_sharp\\c_sharp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\class12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,0 +1,518 @@
+Below are **50 C# coding practice questions** focused on **control statements**. The questions are arranged from **Beginner → Intermediate → Advanced → Challenge Level**. They cover:
+
+* Decision-making statements (`if`, `if-else`, `else if`, `switch`)
+* Loops (`for`, `while`, `do-while`, `foreach`)
+* Jump statements (`break`, `continue`, `return`, `goto`)
+* Nested loops
+* Pattern-based problems
+* Logical thinking
+* Menu-driven programs
+
+---
+
+# Level 1: Beginner (Questions 1–15)
+
+## 1. Positive, Negative or Zero
+
+Write a program to input a number and determine whether it is:
+
+* Positive
+* Negative
+* Zero
+
+---
+
+## 2. Even or Odd
+
+Write a C# program that checks whether a given integer is even or odd.
+
+---
+
+## 3. Largest of Two Numbers
+
+Input two integers and display the larger one.
+
+---
+
+## 4. Smallest of Two Numbers
+
+Write a program to find the smaller of two numbers.
+
+---
+
+## 5. Voting Eligibility
+
+Input age and determine whether a person is eligible to vote (18 or above).
+
+---
+
+## 6. Divisible by 5
+
+Check whether a number is divisible by 5.
+
+---
+
+## 7. Divisible by 5 and 11
+
+Determine whether a number is divisible by both 5 and 11.
+
+---
+
+## 8. Leap Year
+
+Input a year and determine whether it is a leap year.
+
+---
+
+## 9. Greatest of Three Numbers
+
+Find the largest among three numbers using nested if.
+
+---
+
+## 10. Smallest of Three Numbers
+
+Find the smallest among three numbers.
+
+---
+
+## 11. Character Type
+
+Input one character and determine whether it is:
+
+* Uppercase
+* Lowercase
+* Digit
+* Special character
+
+---
+
+## 12. Vowel or Consonant
+
+Input a character and determine whether it is a vowel or consonant.
+
+---
+
+## 13. Pass or Fail
+
+Input marks.
+If marks are 40 or above, display "Pass"; otherwise display "Fail".
+
+---
+
+## 14. Grade Calculator
+
+Assign grades:
+
+* A (90–100)
+* B (80–89)
+* C (70–79)
+* D (60–69)
+* E (40–59)
+* F (<40)
+
+---
+
+## 15. Number Sign using Switch
+
+Use switch statement to display:
+
+* Positive
+* Negative
+* Zero
+
+(Hint: Use comparison result.)
+
+---
+
+# Level 2: Basic Loop Problems (Questions 16–30)
+
+## 16. Print Numbers 1 to 10
+
+Using for loop.
+
+---
+
+## 17. Print Numbers 10 to 1
+
+Using while loop.
+
+---
+
+## 18. Print Even Numbers
+
+Display all even numbers from 1 to 100.
+
+---
+
+## 19. Print Odd Numbers
+
+Display all odd numbers from 1 to 100.
+
+---
+
+## 20. Sum of First N Numbers
+
+Input N and calculate:
+
+```
+1 + 2 + 3 + ... + N
+```
+
+---
+
+## 21. Factorial
+
+Calculate factorial of a number.
+
+Example:
+
+```
+5! = 120
+```
+
+---
+
+## 22. Multiplication Table
+
+Display multiplication table of a given number.
+
+Example:
+
+```
+7 x 1 = 7
+...
+7 x 10 = 70
+```
+
+---
+
+## 23. Count Digits
+
+Input a number and count its digits.
+
+---
+
+## 24. Sum of Digits
+
+Find the sum of digits of an integer.
+
+---
+
+## 25. Reverse a Number
+
+Example:
+
+```
+12345
+
+Output
+
+54321
+```
+
+---
+
+## 26. Palindrome Number
+
+Check whether a number is palindrome.
+
+Example:
+
+```
+121
+
+Output
+
+Palindrome
+```
+
+---
+
+## 27. Armstrong Number
+
+Check whether a number is Armstrong.
+
+Example:
+
+```
+153
+```
+
+---
+
+## 28. Prime Number
+
+Determine whether a number is prime.
+
+---
+
+## 29. Print All Prime Numbers
+
+Display all prime numbers from 1 to N.
+
+---
+
+## 30. Fibonacci Series
+
+Display first N Fibonacci numbers.
+
+---
+
+# Level 3: Intermediate Control Statements (Questions 31–40)
+
+## 31. Menu Driven Calculator
+
+Using switch statement create:
+
+```
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+```
+
+---
+
+## 32. Number Guessing Game
+
+Generate a fixed secret number.
+Use while loop until user guesses correctly.
+
+---
+
+## 33. Password Verification
+
+Allow maximum three attempts to enter the correct password.
+
+---
+
+## 34. ATM Menu
+
+Create menu:
+
+```
+1. Balance
+2. Deposit
+3. Withdraw
+4. Exit
+```
+
+Use switch and loops.
+
+---
+
+## 35. Find Largest Until Zero
+
+Keep accepting numbers until user enters 0.
+Display the largest number.
+
+---
+
+## 36. Sum Until Negative Number
+
+Continue taking input until negative number is entered.
+
+Display total sum.
+
+---
+
+## 37. Skip Multiples of 3
+
+Print numbers from 1 to 100.
+Skip multiples of 3 using continue.
+
+---
+
+## 38. Stop at First Multiple of 17
+
+Print numbers from 1 onwards.
+Stop when multiple of 17 appears.
+
+Use break.
+
+---
+
+## 39. Print Numbers Except Between 40–60
+
+Print 1–100.
+Skip numbers from 40 to 60.
+
+---
+
+## 40. Simple Login System
+
+Allow five login attempts.
+Terminate after successful login or after five failures.
+
+---
+
+# Level 4: Nested Loop Problems (Questions 41–45)
+
+## 41. Square Pattern
+
+```
+*****
+*****
+*****
+*****
+*****
+```
+
+---
+
+## 42. Right Triangle
+
+```
+*
+**
+***
+****
+*****
+```
+
+---
+
+## 43. Reverse Triangle
+
+```
+*****
+****
+***
+**
+*
+```
+
+---
+
+## 44. Pyramid
+
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+---
+
+## 45. Multiplication Table Grid
+
+```
+1 2 3 4 5
+2 4 6 8 10
+3 6 9 12 15
+...
+```
+
+---
+
+# Level 5: Advanced Control Statement Challenges (Questions 46–50)
+
+## 46. Number Classification
+
+Input N numbers.
+
+Count:
+
+* Positive
+* Negative
+* Zero
+* Even
+* Odd
+
+Display all counts.
+
+---
+
+## 47. Student Result Processing
+
+Input marks of N students.
+
+Display:
+
+* Highest marks
+* Lowest marks
+* Average
+* Number Passed
+* Number Failed
+
+---
+
+## 48. Electricity Bill
+
+Calculate bill based on slabs:
+
+```
+0–100
+101–200
+201–500
+Above 500
+```
+
+Use nested if.
+
+---
+
+## 49. Traffic Signal Simulator
+
+Create a menu using switch:
+
+```
+1. Red
+2. Yellow
+3. Green
+```
+
+Display corresponding instruction:
+
+* Stop
+* Wait
+* Go
+
+Repeat until Exit is selected.
+
+---
+
+## 50. Mini Banking System
+
+Using loops, switch, and decision statements, implement:
+
+Menu:
+
+```
+1. Deposit
+2. Withdraw
+3. Balance Inquiry
+4. Transfer
+5. Transaction History
+6. Exit
+```
+
+Requirements:
+
+* Prevent overdraft.
+* Validate amounts.
+* Repeat menu until Exit.
+* Use appropriate control statements (`if`, `switch`, loops, `break`, `continue`, `return`).
+
+---
+
+# Bonus Challenge Questions
+
+If you finish the above, try these more advanced exercises:
+
+1. Rock–Paper–Scissors game.
+2. Tic-Tac-Toe (Console).
+3. Snake and Ladder (Console).
+4. Quiz application with score tracking.
+5. Hangman game.
+6. Number guessing game with difficulty levels.
+7. Maze solver using nested loops.
+8. Sudoku input validator.
+9. Console-based inventory management system.
+10. Banking management system with multiple accounts.
+
+These 50 questions progressively develop your mastery of C# control statements, preparing you for academic exams, coding interviews, and real-world programming tasks.
