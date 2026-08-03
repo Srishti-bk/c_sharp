@@ -44,7 +44,11 @@ class Program
      //numbercheck.Check();
      //Evenodd evenodd = new Evenodd();
      //evenodd.Check();
-     Largernum largernum = new Largernum();
-     largernum.Check();
+    // Largernum largernum = new Largernum();
+     //largernum.Check();
+     //Smallernum smallernum = new Smallernum();
+     //smallernum.Check();
+     Voting voting=new Voting();
+     voting.Determine(); 
     }
 }
