@@ -9,11 +9,7 @@ class Voting
         Console.WriteLine("Enter a age:");
         age=Convert.ToInt32(Console.ReadLine());
 
-        if (age==18)
-        {
-            Console.WriteLine("A person is eligible to vote");
-        }
-        else if (age>18)
+        if (age>=18)
         {
             Console.WriteLine("A person is eligible to vote");
         }

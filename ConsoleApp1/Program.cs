@@ -48,7 +48,14 @@ class Program
      //largernum.Check();
      //Smallernum smallernum = new Smallernum();
      //smallernum.Check();
-     Voting voting=new Voting();
-     voting.Determine(); 
+     //Voting voting = new Voting();
+     // voting.Determine();
+     //Divisible divisible = new Divisible();
+     //divisible.Check();
+     //Divisible2 divisible2 = new Divisible2();
+     //divisible2.Check(); 
+     Greatestof3 greatestof3 = new Greatestof3();
+     greatestof3.check();
+
     }
 }
