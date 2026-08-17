@@ -6,6 +6,7 @@ class Leap
         int year;
         Console.WriteLine("Enter a number:");
         year = Convert.ToInt32(Console.ReadLine());
+        
 
         
     }

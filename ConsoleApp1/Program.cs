@@ -54,8 +54,13 @@ class Program
      //divisible.Check();
      //Divisible2 divisible2 = new Divisible2();
      //divisible2.Check(); 
-     Greatestof3 greatestof3 = new Greatestof3();
-     greatestof3.check();
+     //Greatestof3 greatestof3 = new Greatestof3();
+     //greatestof3.check();
+     //Employeesalary employeesalary = new Employeesalary();
+     //employeesalary.Display();
+     studentsGrade studentsgrade = new studentsGrade();
+     studentsgrade.Display();
+
 
     }
 }
