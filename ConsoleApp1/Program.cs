@@ -58,8 +58,10 @@ class Program
      //greatestof3.check();
      //Employeesalary employeesalary = new Employeesalary();
      //employeesalary.Display();
-     studentsGrade studentsgrade = new studentsGrade();
-     studentsgrade.Display();
+     //studentsGrade studentsgrade = new studentsGrade();
+    // studentsgrade.Display();
+     Studentgrade2  studentgrade2 = new Studentgrade2();
+      studentgrade2.Display();
 
 
     }

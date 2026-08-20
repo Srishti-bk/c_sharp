@@ -7,12 +7,15 @@ class studentsGrade
         for (int studentNo = 1; studentNo <5; studentNo++)
         {
             Console.WriteLine("Student " + studentNo);
-
+            char finalGrade;
+             string name;
             Console.Write("Enter name: ");
-            string name = Console.ReadLine();
+            name = Console.ReadLine();
 
+
+             double examScore;
             Console.Write("Enter exam score: ");
-            double examScore = Convert.ToDouble(Console.ReadLine());
+            examScore = Convert.ToDouble(Console.ReadLine());
 
             char grade;
 
@@ -20,15 +23,15 @@ class studentsGrade
             {
                 grade = 'F';
             }
-            else if (examScore <= 70)
+            else if (examScore < 70)
             {
                 grade = 'D';
             }
-            else if (examScore <= 80)
+            else if (examScore < 80)
             {
                 grade = 'C';
             }
-            else if (examScore <= 90)
+            else if (examScore < 90)
             {
                 grade = 'B';
             }
@@ -36,11 +39,11 @@ class studentsGrade
             {
                 grade = 'A';
             }
+            finalGrade=grade;
 
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Exam Score: " + examScore);
-            Console.WriteLine("Final Grade: " + grade);
-            Console.WriteLine();
+            Console.WriteLine("Final Grade: " + finalGrade);
         }
     }
 }
