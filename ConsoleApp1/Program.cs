@@ -60,8 +60,14 @@ class Program
      //employeesalary.Display();
      //studentsGrade studentsgrade = new studentsGrade();
     // studentsgrade.Display();
-     Studentgrade2  studentgrade2 = new Studentgrade2();
-      studentgrade2.Display();
+     //Studentgrade2  studentgrade2 = new Studentgrade2();
+      //studentgrade2.Display();
+      //Studentinfo studentinfo=new Studentinfo();
+      //studentinfo.displayStudent();
+
+      Multipletable multipletable = new Multipletable();
+      multipletable.Display();
+
 
 
     }

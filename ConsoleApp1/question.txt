@@ -1,0 +1,231 @@
+Here are **8 progressive C# coding exercises**, starting from beginner level and gradually moving toward more advanced use of the four types of user-defined functions.
+
+## C# User-Defined Functions — 8 Coding Exercises
+
+### Beginner Level
+
+**Question 1 — Display Student Information**
+Create a function `DisplayStudent()` with **no arguments and no return type**.
+
+The function should display:
+
+```text
+Name: Apar
+Age: 29
+City: Pokhara
+```
+
+Call the function from `Main()`.
+
+---
+
+**Question 2 — Print a Multiplication Table**
+Create a function `MultiplicationTable()` with **no arguments and no return type**.
+
+The function should print the multiplication table of `5` from `1` to `10`.
+
+Expected output:
+
+```text
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+```
+
+---
+
+### Basic → Intermediate
+
+**Question 3 — Display a Welcome Message**
+Create a function `GetWelcomeMessage()` with **no arguments but with a return type**.
+
+The function should return:
+
+```text
+Welcome to C# Programming
+```
+
+Store the returned value in a variable and display it from `Main()`.
+
+---
+
+**Question 4 — Calculate the Sum of Two Numbers**
+Create a function `CalculateSum(int a, int b)` with **arguments and a return type**.
+
+The function should return the sum of two numbers.
+
+Example:
+
+```text
+Enter first number: 20
+Enter second number: 30
+
+Sum = 50
+```
+
+---
+
+### Intermediate
+
+**Question 5 — Student Result**
+Create the following two functions:
+
+1. `DisplayResult()` — **no arguments and no return type**
+2. `CalculateTotal(int math, int science, int english)` — **arguments and return type**
+
+Ask the user to enter marks for three subjects.
+
+The program should display:
+
+```text
+Total Marks = 240
+```
+
+Use the returned value from `CalculateTotal()` inside `Main()`.
+
+---
+
+**Question 6 — Calculator Using Functions**
+Create four functions:
+
+```text
+Add()
+Subtract()
+Multiply()
+Divide()
+```
+
+Each function should accept **two numbers as arguments and return the result**.
+
+The user should enter two numbers and choose an operation.
+
+Example:
+
+```text
+Enter first number: 20
+Enter second number: 5
+
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+Enter choice: 3
+
+Result = 100
+```
+
+---
+
+### Advanced
+
+**Question 7 — Student Grade Calculator**
+Create the following functions:
+
+```text
+GetTotal()
+GetPercentage()
+GetGrade()
+DisplayStudent()
+```
+
+Requirements:
+
+* `GetTotal()` → arguments + return type
+* `GetPercentage()` → arguments + return type
+* `GetGrade()` → arguments + return type
+* `DisplayStudent()` → no arguments + no return type
+
+Ask the user for marks in **five subjects**.
+
+Calculate:
+
+```text
+Total
+Percentage
+Grade
+```
+
+Use the returned values from one function as inputs to another function.
+
+Example:
+
+```text
+Enter marks of five subjects:
+80
+75
+90
+85
+70
+
+Total = 400
+Percentage = 80%
+Grade = A
+```
+
+---
+
+### Advanced Challenge
+
+**Question 8 — Student Management Mini Program** ⭐
+
+Create a small student result program using **all four types of user-defined functions**.
+
+Your program should:
+
+1. Display a welcome message.
+2. Ask for student's name.
+3. Ask for marks in **five subjects**.
+4. Calculate total.
+5. Calculate percentage.
+6. Determine grade.
+7. Display the complete result.
+
+You must use all four types of functions:
+
+| Function              | Type                     |
+| --------------------- | ------------------------ |
+| `DisplayWelcome()`    | No arguments + No return |
+| `GetStudentName()`    | No arguments + Return    |
+| `CalculateTotal(...)` | Arguments + Return       |
+| `DisplayResult(...)`  | Arguments + No return    |
+
+Example output:
+
+```text
+================================
+     STUDENT RESULT SYSTEM
+================================
+
+Enter student name: Apar
+
+Enter marks:
+C#       : 85
+Database : 78
+Math     : 90
+English  : 75
+Science  : 82
+
+================================
+Student Name : Apar
+Total Marks  : 410
+Percentage   : 82%
+Grade        : A
+================================
+```
+
+### Difficulty progression
+
+```text
+Q1  ⭐              No arguments + No return
+Q2  ⭐              No arguments + No return
+Q3  ⭐⭐             No arguments + Return
+Q4  ⭐⭐             Arguments + Return
+Q5  ⭐⭐⭐            Multiple functions
+Q6  ⭐⭐⭐            Multiple functions + menu
+Q7  ⭐⭐⭐⭐          Functions working together
+Q8  ⭐⭐⭐⭐⭐         Complete mini program
+```
+
+**For practice, don't use arrays, classes, LINQ, or advanced C# features yet.** Focus specifically on understanding **arguments, return values, `void`, `static`/non-static methods, and calling functions from `Main()`**.
