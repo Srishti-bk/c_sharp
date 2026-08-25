@@ -65,8 +65,10 @@ class Program
       //Studentinfo studentinfo=new Studentinfo();
       //studentinfo.displayStudent();
 
-      Multipletable multipletable = new Multipletable();
-      multipletable.Display();
+      //Multipletable multipletable = new Multipletable();
+      //multipletable.Display();
+       string message = getWelcomeMessage();
+       Console.WriteLine(message); 
 
 
 
