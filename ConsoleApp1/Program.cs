@@ -67,8 +67,10 @@ class Program
 
       //Multipletable multipletable = new Multipletable();
       //multipletable.Display();
-       string message = getWelcomeMessage();
-       Console.WriteLine(message); 
+      //Welcomemessage welcome = new Welcomemessage();
+       //string message = welcome.getWelcomeMessage();
+       //Console.WriteLine(message);
+       int result= 
 
 
 
