@@ -7,6 +7,8 @@ public class Sum
 {
    public static int Calculatesum(int a,int b)
     {
+         Console.WriteLine("Enter a first Nmuber a:");
+          Console.WriteLine("Enter a first Nmuber b:");
         return a+b;
     }
 }

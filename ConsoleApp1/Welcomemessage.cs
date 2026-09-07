@@ -2,7 +2,7 @@
 using System;
  public class Welcomemessage
 {
-   public  string getWelcomeMessage()
+   public  string Getwelcomemessage()
     {
         return "Welcome to c# programming";
     }
