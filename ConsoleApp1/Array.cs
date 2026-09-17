@@ -4,11 +4,17 @@ class Array
 {
     public void Singledimen()
     {
-        int[] arr=new int[3];
-        for(int i = 0; i < 3; i++)
-        {
-            Console.WriteLine("Number" + (i+1) + ":");
+        Console.WriteLine("Enter the size of the array: ");
+        int size=int.Parse(Console.ReadLine());
+        int[] arr=new int[size];
+        for(int i = 0; i < arr.GetLength(0);i++){
+            Console.WriteLine("Number " + (i + 1) + ":");
             arr[i]=Convert.ToInt32(Console.ReadLine());
+        }
+        Console.WriteLine("Enter the element:");
+        for(int i=0;i<arr.GetLength(0);i++)
+        {
+            Console.WriteLine(arr[i] + "");
         }
     }
 }

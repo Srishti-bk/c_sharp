@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.VisualBasic.FileIO;
 class Program
 {
     static void Main(string[] args)
@@ -75,10 +76,22 @@ class Program
        //Console.WriteLine(result);
        //Array array=new Array();
        //array.Singledimen();
-       Array2 array2=new Array2();
-       array2.Twodimen();
-      
-
+       //Array2 array2=new Array2();
+       //array2.Twodimen();
+      //Arraystring arraystring = new Arraystring();
+      //arraystring.Display();
+       //Arraydecimal arraydecimal=new Arraydecimal();
+       //arraydecimal.Display();
+       //Array2 array2 = new Array2();
+       //array2.Display();
+       //Array2string array2string = new Array2string();
+       //array2string.Display();
+       //Array3 array3=new Array3();
+       //array3.Display();
+       //Array3string array3string = new Array3string();
+       //array3string.Display();
+       Array3decimal array3decimal = new Array3decimal();
+       array3decimal.Display();
 
     }
 }
