@@ -90,8 +90,10 @@ class Program
        //array3.Display();
        //Array3string array3string = new Array3string();
        //array3string.Display();
-       Array3decimal array3decimal = new Array3decimal();
-       array3decimal.Display();
+       //Array3decimal array3decimal = new Array3decimal();
+       //array3decimal.Display();
+       Jaggedarray jaggedarray = new Jaggedarray();
+       jaggedarray.Display();
 
     }
 }
