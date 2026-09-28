@@ -1,3 +1,5 @@
+//Write a c# program to store numbers in jagged Array should be of 1D and display it.
+
 using System;
 class Jaggedarray()
 {

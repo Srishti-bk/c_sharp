@@ -92,8 +92,12 @@ class Program
        //array3string.Display();
        //Array3decimal array3decimal = new Array3decimal();
        //array3decimal.Display();
-       Jaggedarray jaggedarray = new Jaggedarray();
-       jaggedarray.Display();
+       //Jaggedarray jaggedarray = new Jaggedarray();
+       //jaggedarray.Display();
+       //Jaggedarray2d jaggedarray2d = new Jaggedarray2d();
+       //jaggedarray2d.Array();
+       Jaggedarray3d jaggedarray3d = new Jaggedarray3d();
+       jaggedarray3d.Array();
 
     }
 }
