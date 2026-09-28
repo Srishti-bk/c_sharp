@@ -16,7 +16,7 @@ class Jaggedarray3d
                 {
                     for(int l = 0; l < number[i].GetLength(2); l++)
                     {
-                        Console.Write(number[i][j , k , l]);
+                        Console.Write(number[i][j , k , l] +" ");
                     }
                     Console.WriteLine();
                 }

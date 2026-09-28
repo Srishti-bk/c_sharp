@@ -19,7 +19,7 @@ class Jaggedarray2d
             Console.WriteLine("numbers" +(i+1)+":");
             for(int j=0;j<number[i].GetLength(0);j++){
                 for(int k=0;k<number[i].GetLength(1);k++){
-                    Console.Write(number[i][j,k]);
+                    Console.Write(number[i][j,k] +"");
                     
             }
             Console.WriteLine();
